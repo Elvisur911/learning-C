@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1768397083 source:c:\users\hp\desktop\c stuff\mq2\main.c
+	<stdio.h>
+	<stdlib.h>
+

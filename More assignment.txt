@@ -1,0 +1,7 @@
+1. Write a program that lets a user to input an  integer number and checks whether it is an odd number or an even number and displays the result appropriately.
+ 
+2. Write a program that allows the user to input 2 different integers and the program outputs the largest among the 2
+
+3. Write a C program that inputs marks for 3 subjects and computes the average mark. The program should display pass if the student average mark is greater than or equal to 50, and fail when the average mark is below 50
+
+4. Write a program that allows the user to input 3 different integer numbers and output the largest among the 3

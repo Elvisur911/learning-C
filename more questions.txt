@@ -1,0 +1,11 @@
+Write a program that allows the user to input a no. and checks whether it is evenly divisible by 9
+
+Write a program that reads the gross salary of an employee and displays the tax paid, and the net pay for the employee using the tax info below. The program should have a user defined function called Calculatetax which computes and returns the tax paid by the employee
+   grosspay                            taxrate
+   50,000 and above                     30%
+   40000-49999                          25%
+   30000-39999                          20%
+   0-29999                               0%
+
+
+Write a program that allows you to input 3 diff integer no. and display the largest
